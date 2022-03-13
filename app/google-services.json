@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523669618697",
+    "project_id": "schooltasklist2-ea6de",
+    "storage_bucket": "schooltasklist2-ea6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523669618697:android:59503ea27100a58077f8d8",
+        "android_client_info": {
+          "package_name": "com.example.schooltasklist2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523669618697-kc9k6t5gkqddolk2h2tnes11mfshptnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqv1CATFayMmwxIhEDNaZsgvmUcXdltoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523669618697-kc9k6t5gkqddolk2h2tnes11mfshptnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
